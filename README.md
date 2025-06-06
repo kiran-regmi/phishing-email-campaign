@@ -1,9 +1,9 @@
-# Master Card - running a phishing email campaign 
+# Master Card - monthly phishing email campaign 
 At Mastercard, one of the ways to mitigate phishing threats is by educating people about the risks and how to identify them. An effective way to build awareness is through **phishing simulation campaigns:**
 
 In this project, 
 - Testing all the staff by sending a fake phishing email that is made to look like something a bad actor would send.
-- Utilizing the results of the simulated test to help us design and implement future training.
+- Utilizing the results of the simulated test to help design and implement future training.
 
 # Table of Content
 * What is Phishing
