@@ -28,9 +28,9 @@ There are many ways you could have attempted this task, as phishing emails come 
 ![improved-phishing-email](https://github.com/user-attachments/assets/8217a54b-7163-45fe-89ec-e3eb04cca70b)
 
 # Gather Results and Analyze the Data
-
 First, let’s have a look at the results of the phishing campaign.
 This table helps you to identify which teams appear to be more likely to fail for a phishing email than others. 
+
 ￼![Email open rate](https://github.com/user-attachments/assets/4142c097-95a0-498c-93d1-4ba39592018d)
 
 * Email open rate = the % of people that opened it
