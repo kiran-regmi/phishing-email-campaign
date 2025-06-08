@@ -8,14 +8,11 @@ In this project,
 # Table of Content
 * What is Phishing
 * Examples of phising emails
+* Running phishing email campaign
+* Gather Results and Analyze the Data
+* Share the result with steakholders and corresponding departments
 * How to stop getting phished
 * Remember to always 
-* Launch Email campaign
-* Gather Results and Analyze the Data
-* Uload data to Splunk
-* Creat a Visually appealing dashboard
-* Share the result with steakholders and corresponding departments
-* Documents the findings and traings
 
 # What is Phishing?
 * Phishing is the act of pretending to be someone/something to get information, in most cases, this is usually a password.
@@ -26,9 +23,21 @@ In this project,
 ![Screen Shot 2025-06-06 at 4 35 11 PM](https://github.com/user-attachments/assets/6523d9fb-b1cf-4b49-92d9-85be40dc1656)
 ![Screen Shot 2025-06-06 at 4 37 36 PM](https://github.com/user-attachments/assets/80f31088-1844-4e93-a7bf-1a640dd99688)
 
-# Examples of improved phising email
+# Running phising email campaign
 There are many ways you could have attempted this task, as phishing emails come in all shapes & sizes. Below is one example of an improved phishing email - take note of some of the improvements made
 ![improved-phishing-email](https://github.com/user-attachments/assets/8217a54b-7163-45fe-89ec-e3eb04cca70b)
+
+# Gather Results and Analyze the Data
+
+First, let’s have a look at the results of the phishing campaign.
+This table helps you to identify which teams appear to be more likely to fail for a phishing email than others. 
+￼![Email open rate](https://github.com/user-attachments/assets/4142c097-95a0-498c-93d1-4ba39592018d)
+
+* Email open rate = the % of people that opened it
+* Email click-though rate = the % of people that clicked on the link
+* Phishing success rate = the % of the people that clicked the link and inputted some personal information. 
+
+#  Share the result with steakholders and corresponding departments 
 ![Screen Shot 2025-06-06 at 4 56 12 PM](https://github.com/user-attachments/assets/637fbc86-125d-4eaf-846d-04c88d43f53b)
 
 # How to stop getting phished?
