@@ -38,14 +38,20 @@ This table helps you to identify which teams appear to be more likely to fail fo
 * Phishing success rate = the % of the people that clicked the link and inputted some personal information. 
 
 #  Share the result with steakholders and corresponding departments 
-![Screen Shot 2025-06-06 at 4 56 12 PM](https://github.com/user-attachments/assets/637fbc86-125d-4eaf-846d-04c88d43f53b)
+![Screen Shot 2025-06-08 at 2 57 27 PM](https://github.com/user-attachments/assets/8ded9247-50b5-4a04-a9c3-90fed7eeb9a2)
+![Screen Shot 2025-06-08 at 2 58 11 PM](https://github.com/user-attachments/assets/dc69d729-0548-45bd-8689-79d86181062c)
+
+![Screen Shot 2025-06-08 at 3 00 19 PM](https://github.com/user-attachments/assets/e5bdc5ca-af21-4d59-8efd-d2d83399aacc)
+![Screen Shot 2025-06-08 at 3 00 38 PM](https://github.com/user-attachments/assets/fb1eb28b-6d53-4fd7-93d5-b1c69538dc50)
 
 # How to stop getting phished?
 * If it’s too good to be true it probably is.
 * Always be suspicious. Better safe than sorry.
 * Double check with other employees on a separate communication channel.
 For example, in the rewards card phishing email above, you could confirm by calling Rewards Services about the employee card being sent out before clicking on the email.
+
 ![Screen Shot 2025-06-06 at 4 54 51 PM](https://github.com/user-attachments/assets/bef4cdfc-553a-4b9d-94bf-c4432d10cf86)
+![Screen Shot 2025-06-06 at 4 56 12 PM](https://github.com/user-attachments/assets/637fbc86-125d-4eaf-846d-04c88d43f53b)
 
 # Remember to always:
 * Check the URL of the website is correct.
